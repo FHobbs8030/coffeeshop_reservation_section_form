@@ -19,6 +19,6 @@ Add your ideas here :)
 
 ## Take a Look at the Project
 
-click [here](https://FHobbs8030.github.io/se_project_aroundtheus/)
+click [here](https://FHobbs8030.github.io/coffeeshop_reservation_section_form/)
 
 =========================================
