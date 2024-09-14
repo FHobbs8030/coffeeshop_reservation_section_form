@@ -14,11 +14,3 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Add your ideas here :)
-
-=========================================
-
-## Take a Look at the Project
-
-click [here](https://FHobbs8030.github.io/coffeeshop_reservation_section_form/)
-
-=========================================
